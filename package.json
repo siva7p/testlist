@@ -1,0 +1,24 @@
+{
+  "name": "countrylist",
+  "version": "1.0.0",
+  "description": "Get all country list",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "(https://github.com/siva7p/testlist.git)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siva7p/testlist.git"
+  },
+  "keywords": [
+    "random",
+    "country",
+    "names"
+  ],
+  "author": "Siva <siva.p@bambeeq.com> (http://sivap7.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siva7p/testlist/issues"
+  },
+  "homepage": "https://github.com/siva7p/testlist#readme"
+}
